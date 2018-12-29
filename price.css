@@ -1,5 +1,14 @@
-.main-title {
+.main-title1 {
     font-family: 'Iceberg', cursive;
+    font-size: 20px;
+    width: auto;
+    height: 30px;
+    text-align: center;
+    color: #ce3b3b;
+}
+
+.main-title1 {
+    font-family: 'Oswald', sans-serif;
     font-size: 20px;
     width: auto;
     height: 30px;
@@ -19,5 +28,5 @@
     font-size: 18px;
     text-align: center;
     padding: 20px;
-    font-family: 'Iceberg', cursive;
+    font-family: 'Oswald', sans-serif;
 }
