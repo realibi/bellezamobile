@@ -31,7 +31,7 @@
         <br>
 
         <div class="col-xs-12">
-            <div class="main-title">FIRST NAILS DRY BAR MAKE-UP IN KAZAKHSTAN</div>
+            <div class="main-title1">FIRST NAILS DRY BAR MAKE-UP IN KAZAKHSTAN</div>
         </div>
 
         <br>
