@@ -71,7 +71,7 @@
 
         <div class="col-xs-12">
             <div class="footer">
-                Сарыарка 31/2<br> +77710993580     +77775555787<br> @belleza_makeup_ast
+            Сарыарка 31/2<br> +77710993580 | +77775555787<br> @belleza_makeup_ast
             </div>
         </div>
     </div>
