@@ -47,13 +47,8 @@
             </a>
         </div>
         <div class="col-xs-12">
-            <a href="samsebe.php">
-                <div class="menuItem">"САМ СЕБЕ ВИЗАЖИСТ"</div>
-            </a>
-        </div>
-        <div class="col-xs-12">
-            <a href="salonnyi-master.php">
-                <div class="menuItem">"САЛОННЫЙ МАСТЕР"</div>
+            <a href="courses.php">
+                <div class="menuItem">КУРСЫ ВИЗАЖА</div>
             </a>
         </div>
         <div class="col-xs-12">
@@ -83,10 +78,13 @@
         <br>
 
         <div class="col-xs-12">
-            <div class="circleItem1">
-            </div>
+            <a href="makeups.php">
+                <div class="circleItem1"></div>
+            </a>
         </div>
-        <div class="titleItem">ДНЕВНОЙ МАКИЯЖ</div>
+        <a href="makeups.php">
+            <div class="titleItem">ДНЕВНОЙ МАКИЯЖ</div>
+        </a>
 
         <br>
         <br>
@@ -100,10 +98,13 @@
         <br>
 
         <div class="col-xs-12">
-            <div class="circleItem2">
-            </div>
+            <a href="courses.php">
+                <div class="circleItem2"></div>
+            </a>
         </div>
-        <div class="titleItem">КУРСЫ ВИЗАЖА</div>
+        <a href="courses.php">
+            <div class="titleItem">КУРСЫ ВИЗАЖА</div>
+        </a>
 
         <br>
         <br>
@@ -117,10 +118,13 @@
         <br>
 
         <div class="col-xs-12">
-            <div class="circleItem3">
-            </div>
+            <a href="makeups.php">
+                <div class="circleItem3"></div>
+            </a>
         </div>
-        <div class="titleItem">ВЕЧЕРНИЙ МАКИЯЖ</div>
+        <a href="makeups.php">
+            <div class="titleItem">ВЕЧЕРНИЙ МАКИЯЖ</div>
+        </a>
 
         <br>
         <br>
