@@ -21,7 +21,7 @@
     <div class="container">
         <br>
         <div class="col-xs-12">
-            <a href="index.html">
+            <a href="index.php">
                 <div class="back">НАЗАД</div>
             </a>
         </div>
@@ -67,7 +67,10 @@
         <br>
         <br>
 
-        <div class="menuItem">
+        <div class="col-xs-12">
+            <div class="footer">
+                Сарыарка 31/2<br> +7 701 330 5611<br> @belleza_makeup_ast
+            </div>
         </div>
     </div>
 

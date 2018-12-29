@@ -22,7 +22,7 @@
     <div class="container">
         <br>
         <div class="col-xs-12">
-            <a href="index.html">
+            <a href="index.php">
                 <div class="logotype"></div>
             </a>
         </div>
