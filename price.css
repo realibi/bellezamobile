@@ -1,0 +1,23 @@
+.main-title {
+    font-family: 'Iceberg', cursive;
+    font-size: 20px;
+    width: auto;
+    height: 30px;
+    text-align: center;
+    color: #ce3b3b;
+}
+
+.priceBlock {
+    width: auto;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px solid #d67a7a;
+    color: #ce3b3b;
+    border-radius: 20px;
+    background-color: bisque;
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Iceberg', cursive;
+}

@@ -11,7 +11,9 @@
 
     <link href="https://fonts.googleapis.com/css?family=Iceberg" rel="stylesheet">
 
+    <link rel="stylesheet" href="header.css">
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="price.css">
 
     <title>Hello, world!</title>
 </head>
@@ -20,28 +22,61 @@
     <div class="container">
         <br>
         <div class="col-xs-12">
-            <div class="logotype"></div>
+            <a href="index.html">
+                <div class="logotype"></div>
+            </a>
         </div>
+
         <br>
+
         <div class="col-xs-12">
-            <div class="menuItem">ПРАЙС</div>
-        </div>
-        <div class="col-xs-12">
-            <div class="menuItem">ГАЛЕРЕЯ</div>
-        </div>
-        <div class="col-xs-12">
-            <div class="menuItem">ОТЗЫВЫ</div>
-        </div>
-        <div class="col-xs-12">
-            <div class="menuItem">О НАС</div>
+            <div class="main-title">FIRST NAILS DRY BAR MAKE-UP IN KAZAKHSTAN</div>
         </div>
 
         <br>
         <br>
 
         <div class="col-xs-12">
-            <div class="line">
-            </div>
+            <a href="price.php">
+                <div class="menuItem">ПРАЙС</div>
+            </a>
+        </div>
+        <div class="col-xs-12">
+            <a href="gallery.php">
+                <div class="menuItem">ГАЛЕРЕЯ</div>
+            </a>
+        </div>
+        <div class="col-xs-12">
+            <a href="samsebe.php">
+                <div class="menuItem">"САМ СЕБЕ ВИЗАЖИСТ"</div>
+            </a>
+        </div>
+        <div class="col-xs-12">
+            <a href="salonnyi-master.php">
+                <div class="menuItem">"САЛОННЫЙ МАСТЕР"</div>
+            </a>
+        </div>
+        <div class="col-xs-12">
+            <a href="makeups.php">
+                <div class="menuItem">ВИДЫ МАКИЯЖА</div>
+            </a>
+        </div>
+        <div class="col-xs-12">
+            <a href="feedback.php">
+                <div class="menuItem">ОТЗЫВЫ</div>
+            </a>
+        </div>
+        <div class="col-xs-12">
+            <a href="about.php">
+                <div class="menuItem">О НАС</div>
+            </a>
+        </div>
+
+        <br>
+        <br>
+
+        <div class="col-xs-12">
+            <div class="main-title">Наши услуги:</div>
         </div>
 
         <br>
@@ -91,7 +126,8 @@
         <br>
 
         <div class="col-xs-12">
-            <div class="menuItem">
+            <div class="footer">
+                Сарыарка 31/2<br> +7 701 330 5611<br> @belleza_makeup_ast
             </div>
         </div>
     </div>
@@ -103,4 +139,4 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 </body>
 
-</html>
+</html
